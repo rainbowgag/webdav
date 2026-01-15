@@ -7,6 +7,4 @@
 ## 一键安装
 
 ```sh
-wget https://raw.githubusercontent.com/你的用户名/gowebdav-openwrt-installer/main/install.sh
-chmod +x install.sh
-./install.sh
+wget -O - https://raw.githubusercontent.com/rainbowgag/webdav/refs/heads/main/aarch64_install.sh | sh
