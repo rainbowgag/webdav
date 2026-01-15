@@ -2,7 +2,7 @@
 
 ## 支持环境
 - OpenWrt 
-- 架构：aarch64（MT7986 / Filogic / AX4200 等）
+- 架构：aarch64/armv8（MT7986 / Filogic / AX4200 等）
 
 ## 一键安装
 
